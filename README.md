@@ -1,4 +1,4 @@
-# オマーチー (Omāchī) - 8K Omarchy Minimal Wallpapers with Popular Themes
+## 8K Omarchy Minimal Wallpapers with Popular Themes
 
 
 **オマーチー (Omāchī)** is the Japanese katakana spelling of Omarchy, based on how DHH pronounces it like “omachi.” Katakana is used in Japanese to transliterate foreign words, so it doesn’t have its own meaning in Japanese.
