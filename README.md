@@ -1,6 +1,5 @@
-## 8K Minimal Wallpapers with Popular Themes
+# オマーチー (Omāchī) - 8K Omarchy Minimal Wallpapers with Popular Themes
 
-A collection of minimal 8K wallpapers for the Omarchy desktop environment and other uses, inspired by the most popular dark/light color themes.
 
 **オマーチー (Omāchī)** is the Japanese katakana spelling of Omarchy, based on how DHH pronounces it like “omachi.” Katakana is used in Japanese to transliterate foreign words, so it doesn’t have its own meaning in Japanese.
 
