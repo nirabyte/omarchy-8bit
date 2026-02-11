@@ -34,13 +34,13 @@
       <a href="https://github.com/nirabyte/omarchy-8bit/blob/main/Gruvbox%20Dark%20Hard.png">
         <img src="https://github.com/nirabyte/omarchy-8bit/raw/main/Gruvbox%20Dark%20Hard.png" alt="Espresso" width="250">
       </a><br>
-      <sub>Gruvbox Dark Hard.png</sub>
+      <sub>Espresso.png</sub>
     </td>
     <td width="250" align="center">
       <a href="https://github.com/nirabyte/omarchy-8bit/blob/main/Gruvbox%20Red.png">
         <img src="https://github.com/nirabyte/omarchy-8bit/raw/main/Gruvbox%20Red.png" alt="Ember" width="250">
       </a><br>
-      <sub>Gruvbox Red.png</sub>
+      <sub>Ember.png</sub>
     </td>
     <td width="250" align="center">
       <a href="https://github.com/nirabyte/omarchy-8bit/blob/main/Gruvbox%20Yellow.png">
