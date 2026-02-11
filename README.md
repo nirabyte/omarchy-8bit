@@ -86,8 +86,12 @@
       </a><br>
       <sub>Tokyo Night.png</sub>
     </td>
-    <!-- Removed the 3rd empty TD from this row -->
-  </tr>
+   <td width="250" align="center">
+      <a href="https://github.com/nirabyte/8-bit-omarchy/blob/main/Dracula.png">
+        <img src="https://github.com/nirabyte/omarchy-8bit/raw/main/Dracula.png" alt="Tokyo Night" width="250">
+      </a><br>
+      <sub>Ddracula.png</sub>
+    </td>  </tr>
 </table>
 
 ## License
