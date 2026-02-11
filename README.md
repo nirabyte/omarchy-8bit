@@ -3,8 +3,6 @@
 
 **オマーチー (Omāchī)** is the Japanese katakana spelling of Omarchy, based on how DHH pronounces it like “omachi.” ,**オマーチー** itself doesn’t have its own meaning in Japanese.
 
----
-
 ## Wallpaper Gallery
 
 <table>
@@ -91,14 +89,6 @@
     <!-- Removed the 3rd empty TD from this row -->
   </tr>
 </table>
-
----
-## Usage
-
-- Download your favorite PNG from the links above.
-- Set as your wallpaper in your OS or desktop environment.
-
----
 
 ## License
 [MIT License](LICENSE)
