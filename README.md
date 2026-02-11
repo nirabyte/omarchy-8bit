@@ -88,9 +88,9 @@
     </td>
    <td width="250" align="center">
       <a href="https://github.com/nirabyte/8-bit-omarchy/blob/main/Dracula.png">
-        <img src="https://github.com/nirabyte/omarchy-8bit/raw/main/Dracula.png" alt="Tokyo Night" width="250">
+        <img src="https://github.com/nirabyte/omarchy-8bit/raw/main/Dracula.png" alt="Orchid" width="250">
       </a><br>
-      <sub>Ddracula.png</sub>
+      <sub>Orchid.png</sub>
     </td>  </tr>
 </table>
 
