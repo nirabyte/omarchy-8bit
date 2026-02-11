@@ -1,7 +1,7 @@
 ## 8K Omarchy Minimal Wallpapers
 
 
-**オマーチー (Omāchī)** is the Japanese katakana spelling of Omarchy, based on how DHH pronounces it like “omachi.” ,**オマーチー** itself doesn’t have its own meaning in Japanese.
+**オマーチー (Omāchī)** is the Japanese katakana spelling of Omarchy, based on how DHH pronounces it like “omachi.” ,**オマーチー** itself doesn’t have its own meaning in Japanese.\ The text UI is inspired from the Japanese flag and its color.
 
 ## Wallpaper Gallery
 
