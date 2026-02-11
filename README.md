@@ -44,7 +44,7 @@
         <sub>Gruvbox Red.png</sub>
       </a>
     </td>
-    <td width="220" align="center">
+    <td width="250" align="center">
       <a href="https://github.com/nirabyte/omarchy-8bit/blob/main/Gruvbox%20Yellow.png">
         <img src="https://github.com/nirabyte/omarchy-8bit/raw/main/Gruvbox%20Yellow.png" alt="Gruvbox Yellow" width="250"><br>
         <sub>Gruvbox Yellow.png</sub>
@@ -74,7 +74,7 @@
     </td>
   </tr>
 
-  <!-- Row 4: Rose Pine, Tokyo Night (Cleaned up) -->
+  <!-- Row 4: Rose Pine, Tokyo Night (Only 2 items, no empty cells) -->
   <tr>
     <td width="250" align="center">
       <a href="https://github.com/nirabyte/omarchy-8bit/blob/main/Rose%20Pine.png">
@@ -88,11 +88,11 @@
         <sub>Tokyo Night.png</sub>
       </a>
     </td>
-    <td width="250" align="center"></td> <!-- This cell remains empty to maintain the 3-column look for the row -->
+    <!-- Removed the 3rd empty TD for this row -->
   </tr>
 </table>
----
 
+---
 ## Usage
 
 - Download your favorite PNG from the links above.
